@@ -1,5 +1,7 @@
 # 📘 Graph-Based Model for Trading Using GraphSAINT with Sparse Attention
 
+![Line Plot](https://github.com/chinmay-334/trading/raw/main/line%20plot.png)
+
 ## 🧩 Introduction
 
 In the fast-paced world of stock market forecasting, understanding inter-stock relationships is key. This project proposes a **hybrid graph-based model** that integrates:
