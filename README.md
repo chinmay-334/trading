@@ -65,5 +65,4 @@ This makes it a **state-of-the-art yet lightweight** approach for predictive mod
 
 ---
 
-## 📁 Repository Structure (Suggestion)
 
