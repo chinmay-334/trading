@@ -13,7 +13,10 @@ By combining **GraphSAINT’s subgraph sampling** with a **Sparse Attention mech
 
 ---
 
-![Line Plot](https://github.com/chinmay-334/trading/raw/main/line%20plot.png)
+<p align="center">
+  <img src="https://github.com/chinmay-334/trading/blob/main/CandleStick%20Plot.png" alt="Image 1" width="45%">
+  <img src="https://github.com/chinmay-334/trading/blob/main/line%20plot.png" alt="Image 2" width="45%">
+</p>
 
 
 ## 📊 Comparative Analysis
