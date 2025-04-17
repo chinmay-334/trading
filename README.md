@@ -1,7 +1,7 @@
-# 📘 Graph-Based Model for Trading Using GraphSAINT with Sparse Attention
+#  Graph-Based Model for Trading Using GraphSAINT with Sparse Attention
 
 
-## 🧩 Introduction
+##  Introduction
 
 In the fast-paced world of stock market forecasting, understanding inter-stock relationships is key. This project proposes a **hybrid graph-based model** that integrates:
 
@@ -19,7 +19,7 @@ By combining **GraphSAINT’s subgraph sampling** with a **Sparse Attention mech
 </p>
 
 
-## 📊 Comparative Analysis
+##  Comparative Analysis
 
 | Model                         | Accuracy (%) | Training Time* | Memory Usage* |
 |------------------------------|--------------|----------------|----------------|
@@ -33,16 +33,16 @@ By combining **GraphSAINT’s subgraph sampling** with a **Sparse Attention mech
 
 ---
 
-## 🧠 Why This Hybrid Model?
+##  Why This Hybrid Model?
 
-### ✅ GraphSAINT Sampling
+###  GraphSAINT Sampling
 
 - Samples subgraphs instead of just nodes/edges
 - Efficiently captures local structure
 - Drastically reduces memory usage
 - Ideal for **large-scale graphs**
 
-### ✅ Sparse Attention
+###  Sparse Attention
 
 - Focuses only on **significant neighbors**
 - Retains **GAT-level accuracy**
@@ -50,7 +50,7 @@ By combining **GraphSAINT’s subgraph sampling** with a **Sparse Attention mech
 
 ---
 
-## 🔧 Use Case: Trading
+##  Use Case: Trading
 
 This model is tailored for real-world trading applications:
 
@@ -60,7 +60,7 @@ This model is tailored for real-world trading applications:
 
 ---
 
-## 🔚 Conclusion
+##  Conclusion
 
 Our hybrid model achieves:
 
